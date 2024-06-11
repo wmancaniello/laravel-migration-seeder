@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Home page</h1>
+    <h1>Homepage di Trenitalia</h1>    
 @endsection
